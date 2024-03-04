@@ -1,7 +1,5 @@
 from cgitb import text
-from itertools import count
 from tkinter import *
-from turtle import bgcolor, color
 import math
 # ---------------------------- CONSTANTS ------------------------------- #
 PINK = "#e2979c"
